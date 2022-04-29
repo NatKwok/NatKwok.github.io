@@ -3,11 +3,11 @@ body {
 }
 
 .home {
-  background-image: url("../images/banner.jpg");
+  background-image: url("../images/geo_banner5.jpg");
   background-repeat: no-repeat;
   background-position: top left;
   background-attachment: fixed;
-  width: 100%;
+  width: auto;
   font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 }
 
